@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="27" started-at="2016-09-08T10:14:10Z" finished-at="2016-09-08T10:14:10Z">
+    <groups>
+    </groups>
+    <test name="test12" duration-ms="27" started-at="2016-09-08T10:14:10Z" finished-at="2016-09-08T10:14:10Z">
+      <class name="TankLearn2.Learn.TestNGLearn1">
+        <test-method status="PASS" signature="TestNgLearn3()[pri:0, instance:TankLearn2.Learn.TestNGLearn1@6d78f375]" name="TestNgLearn3" duration-ms="8" started-at="2016-09-08T18:14:10Z" finished-at="2016-09-08T18:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNgLearn3 -->
+        <test-method status="PASS" signature="TestNgLearn1()[pri:0, instance:TankLearn2.Learn.TestNGLearn1@6d78f375]" name="TestNgLearn1" duration-ms="2" started-at="2016-09-08T18:14:10Z" finished-at="2016-09-08T18:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNgLearn1 -->
+        <test-method status="PASS" signature="TestNgLearn2()[pri:0, instance:TankLearn2.Learn.TestNGLearn1@6d78f375]" name="TestNgLearn2" duration-ms="0" started-at="2016-09-08T18:14:10Z" finished-at="2016-09-08T18:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNgLearn2 -->
+      </class> <!-- TankLearn2.Learn.TestNGLearn1 -->
+    </test> <!-- test12 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
